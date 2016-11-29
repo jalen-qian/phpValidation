@@ -4,7 +4,7 @@
  * e-mail: qianwenjun@yaochufa.com
  * Date: 2016/11/29
  * Time: 14:20
- * 过滤器工具类
+ * 过滤器工具类 
  */
 class Validation{
 	/**
